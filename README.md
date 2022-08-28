@@ -1,4 +1,4 @@
-# Grapher-for-ValveWizard-Analyser
+# Grapher-for-Valve-Wizard-Analyser
 A Processing based logger/grapher for ValveWizard's/Merlin Blencowe's Arduino Valve Analyser
 
 This is a app made with the Processing environment for use with Valve Wizard's Arduino Valve Analyser.
@@ -69,7 +69,7 @@ In this mode just press the run button (No need to enter values or submit data) 
 Press "Run?" again to Run a new test without submitting new parameters,
 or start the process again for the next test. Bear in mind the graph may change as a new Test Mode is being selected. 
 
-**Use with Faux Valve Analyser**
+**Use with Faux Valve Analyser:**
 
 To use with the "Faux Analyser" program these settings must be:
 
