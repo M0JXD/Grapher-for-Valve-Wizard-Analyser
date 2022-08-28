@@ -75,7 +75,7 @@ public DataFromArduino createSampleData() {
   return merlinsSample;
 }
 
-/* Unassorted shite that might be useful
+/* Unassorted pieces that might be useful
 
 // Class I started early on but decided against - Test data should be an instance of the real data class
 // Look at it there sitting all abandoned, aww.
