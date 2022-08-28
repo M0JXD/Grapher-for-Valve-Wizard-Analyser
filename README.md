@@ -1,7 +1,7 @@
 # Grapher-for-Valve-Wizard-Analyser
-A Processing based logger/grapher for ValveWizard's/Merlin Blencowe's Arduino Valve Analyser
+A Processing based logger/grapher for ValveWizard's/Merlin Blencowe's Arduino Valve Analyser.
 
-This is a app made with the Processing environment for use with Valve Wizard's Arduino Valve Analyser.
+This is an app made with the Processing environment for use with Valve Wizard's Arduino Valve Analyser.
 The original can be seen here: https://www.valvewizard.co.uk/analyser.html
 
 ![Arduino Valve Analyser](https://user-images.githubusercontent.com/94254558/187069764-fba02bf1-de98-4141-84c8-5cf15ce4d42c.png)
