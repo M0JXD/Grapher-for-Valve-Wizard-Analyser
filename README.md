@@ -60,14 +60,14 @@ Tetrode/Pentode Mode:
  • Anode Currents Plot
  • Screen Currents Plot
  • Cathode Currents Plot
+ 
+Press "Run?" again to Run a new test without submitting new parameters,
+or start the process again for the next test. Bear in mind the graph may change as a new Test Mode is being selected. 
 
 **Demo Mode:**
 
 This is the same as Pentode mode but uses pre-programmed data to plot the graphs.
 In this mode just press the run button (No need to enter values or submit data) to plot some sample graphs.
-
-Press "Run?" again to Run a new test without submitting new parameters,
-or start the process again for the next test. Bear in mind the graph may change as a new Test Mode is being selected. 
 
 **Use with Faux Valve Analyser:**
 
@@ -89,3 +89,5 @@ Processing itself is quite slow as well. Building in Java or Python would work m
 
 I plan to build my own anayser based of this one - I'm hoping to make this parts even more generic with plans to remove the specialist op-amps.
 If this goes ahead, I will make new software for both the Arduino and Grapher so they work together in harmony.
+
+*Update: Someone else has made a much nicer program for this now made with Qt in C++. Searching "Valve Wizard" in to Github will locate it for you.*
