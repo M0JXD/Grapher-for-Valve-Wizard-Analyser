@@ -90,4 +90,4 @@ Processing itself is quite slow as well. Building in Java or Python would work m
 I plan to build my own anayser based of this one - I'm hoping to make this parts even more generic with plans to remove the specialist op-amps.
 If this goes ahead, I will make new software for both the Arduino and Grapher so they work together in harmony.
 
-*Update: Someone else has made a much nicer program for this now made with Qt in C++. Searching "Valve Wizard" in to Github will locate it for you.*
+*Update: Someone else has made a much nicer program for this made with Qt in C++. Searching "Valve Wizard" in to Github will locate it for you.*
