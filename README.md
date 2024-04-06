@@ -87,7 +87,7 @@ A mistake made here was trying to ensure this would work without modifying the o
 
 Processing itself is quite slow as well. Building in Java or Python would work much better, and allow for much better versatility. I don't think it will compile for MacOS at the moment, another reason to rebuild for platform independence. Processing was only chosen intitially as it's RS232 over USB library makes it easy to communicate with the Arduino.
 
-I plan to build my own anayser based of this one - I'm hoping to make this parts even more generic with plans to remove the specialist op-amps.
+I plan to build my own analyser based of this one - I'm hoping to make this parts even more generic with plans to remove the specialist op-amps.
 If this goes ahead, I will make new software for both the Arduino and Grapher so they work together in harmony.
 
 *Update: Someone else has made a much nicer program for this made with Qt in C++. Searching "Valve Wizard" in to Github will locate it for you.*
